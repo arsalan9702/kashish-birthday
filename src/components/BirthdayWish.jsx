@@ -108,8 +108,8 @@ export default function BirthdayWish({ content }) {
         </motion.span>
       </motion.div>
 
-      <p className="absolute bottom-8 text-rose-300/50 text-xs tracking-widest">
-        made with care, just for you
+      <p className="absolute bottom-24 text-rose-300/70 text-xs tracking-widest">
+        made with care and a looott of emotions, just for you
       </p>
     </section>
   );

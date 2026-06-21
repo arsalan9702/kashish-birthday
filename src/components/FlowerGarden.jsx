@@ -226,7 +226,7 @@ function FlowerCard({ flower, index }) {
         <AnimatePresence>
           {hovered && (
             <motion.p
-              className="font-serif text-rose-600/80 text-xs italic max-w-[120px] leading-snug"
+              className="font-serif text-rose-600/80 text-sm italic max-w-[120px] leading-snug"
               initial={{ opacity: 0, y: 6, height: 0 }}
               animate={{ opacity: 1, y: 0, height: "auto" }}
               exit={{ opacity: 0, y: 4, height: 0 }}
@@ -244,7 +244,7 @@ function FlowerCard({ flower, index }) {
 export default function FlowerGarden({ flowers }) {
   return (
     <section className="relative z-10 py-24 px-6 flex flex-col items-center">
-      <p className="text-xs tracking-[0.3em] uppercase text-rose-400 mb-3">for you</p>
+      <p className="text-sm tracking-[0.3em] uppercase text-rose-400 mb-3">for you</p>
       <h2 className="font-display text-[clamp(1.8rem,5vw,3rem)] text-rose-900 mb-4 text-center">
         In every petal
       </h2>

@@ -19,13 +19,13 @@ export default function IconsSection({ icons }) {
             transition={{ duration: 0.5, delay: i * 0.07 }}
           >
             <motion.div
-              className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-white/70 border border-rose-100 flex items-center justify-center text-2xl sm:text-3xl shadow-sm"
+              className="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-white/70 border border-rose-100 flex items-center justify-center text-3xl sm:text-4xl shadow-sm"
               whileHover={{ y: -4, scale: 1.1 }}
               transition={{ duration: 0.2 }}
             >
               {item.emoji}
             </motion.div>
-            <p className="font-serif text-rose-700/70 text-[10px] sm:text-xs italic text-center leading-snug max-w-[72px]">
+            <p className="font-serif text-rose-700/70 text-xs sm:text-sm italic text-center leading-snug max-w-[72px]">
               {item.label}
             </p>
           </motion.div>

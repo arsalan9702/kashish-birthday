@@ -129,6 +129,6 @@ export const content = {
   wish: {
     message:
       "There are people you meet and forget, and then there are people who quietly change the way you see things. You are the second kind. I hope this birthday gives you even a fraction of the joy you give everyone around you — because you deserve that, and so much more. Happy Birthday, Kashish.",
-    signoff: "— Your name here",
+    signoff: "— Arsalan",
   },
 };
