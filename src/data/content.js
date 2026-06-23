@@ -19,14 +19,14 @@ export const content = {
 
   flashcards: [
     {
-      category: "A memory",
+      category: "A wish for you",
       icon: "✦",
-      text: "That one time we laughed about something completely silly and I couldn't stop smiling for the rest of the day.",
+      text: "I wish all the seams you make come out to be perrrfect 🤌.",
     },
     {
-      category: "Something I admire",
+      category: "Something which reminds me of you",
       icon: "◈",
-      text: "The way you see beauty in things most people walk right past.",
+      text: "A random mannequin on the roadside.",
     },
     {
       category: "A fun fact",
@@ -36,7 +36,7 @@ export const content = {
     {
       category: "Something I admire",
       icon: "◈",
-      text: "How you make everything you touch feel considered and alive.",
+      text: "Your creativity damn it.",
     },
     {
       category: "A memory",
@@ -56,7 +56,7 @@ export const content = {
     {
       category: "Something I admire",
       icon: "◈",
-      text: "Your ability to be soft and strong at the exact same time.",
+      text: "Your softness when playing with Zidaan.",
     },
     {
       category: "A memory",
@@ -94,7 +94,7 @@ export const content = {
     },
     {
       name: "Cherry Blossom",
-      compliment: "Fleeting moments with you feel like magic.",
+      compliment: "Fleeting moments which feel like magic.",
       color: "#F4B8C8",
       petalColor: "#E8899E",
       centerColor: "#C45C7A",
@@ -119,7 +119,7 @@ export const content = {
     { emoji: "🖌️", label: "sees the world differently" },
     { emoji: "📖", label: "ideas that never run out" },
     { emoji: "🎨", label: "life in full colour" },
-    { emoji: "🌿", label: "quietly nurturing" },
+    // { emoji: "🌿", label: "quietly nurturing" },
     { emoji: "📷", label: "collector of beautiful moments" },
     { emoji: "🧵", label: "crafts beauty from nothing" },
     { emoji: "🌙", label: "dreamer, always" },
