@@ -7,12 +7,12 @@ export const content = {
 
   nameSection: {
     definition:
-      "an inexplicable pull. The kind of presence that stays in a room long after the person has left. Someone whose creativity feels less like a learned skill and more like a way of seeing. Warm without effort. Radiant without trying. The rarest kind of person — the kind who makes ordinary moments feel worth remembering.",
+      "The kind of presence that stays in a room long after the person has left. Likely to be deeply emotional and passionate, naturally charismatic and charming, with a strong ability to attract. an inexplicable pull. Someone whose creativity feels less like a learned skill and more like a way of seeing.",
     traits: [
-      "Kindness that feels effortless",
       "Art in everything she touches",
-      "Softness with quiet strength",
-      "Honesty that never cuts",
+      "Made Kashmir look even more beautiful",
+      "Famously twins with autos hehe",
+      "Passionate in everything she likes",
       "Imagination that never sleeps",
     ],
   },
@@ -21,17 +21,12 @@ export const content = {
     {
       category: "A wish for you",
       icon: "✦",
-      text: "I wish all the seams you make come out to be perrrfect 🤌.",
+      text: "I wish all the seams you make come out to be perrrfect.",
     },
     {
       category: "Something which reminds me of you",
       icon: "◈",
       text: "A random mannequin on the roadside.",
-    },
-    {
-      category: "A fun fact",
-      icon: "❋",
-      text: "She could make anything look intentional. Even chaos would look curated around her.",
     },
     {
       category: "Something I admire",
@@ -44,6 +39,11 @@ export const content = {
       text: "The way you said that one thing I didn't expect — and it stayed with me longer than you probably know.",
     },
     {
+      category: "A wish for you",
+      icon: "✦",
+      text: "May your fabric never shrink.",
+    },
+    {
       category: "Something I admire",
       icon: "◈",
       text: "The fact that your creativity isn't something you switch on — it's just how you exist.",
@@ -51,7 +51,7 @@ export const content = {
     {
       category: "A fun fact",
       icon: "❋",
-      text: "Has an eye for detail that borders on a superpower.",
+      text: "Has same coloured deep brown eyes and hair",
     },
     {
       category: "Something I admire",
@@ -59,9 +59,9 @@ export const content = {
       text: "Your softness when playing with Zidaan.",
     },
     {
-      category: "A memory",
+      category: "A wish for you",
       icon: "✦",
-      text: "A quiet moment I keep coming back to, even when everything else is loud.",
+      text: "May your thread never run out mid-seam.",
     },
     {
       category: "A fun fact",
@@ -94,7 +94,7 @@ export const content = {
     },
     {
       name: "Cherry Blossom",
-      compliment: "Fleeting moments which feel like magic.",
+      compliment: "Fleeting and magical.",
       color: "#F4B8C8",
       petalColor: "#E8899E",
       centerColor: "#C45C7A",
@@ -107,8 +107,8 @@ export const content = {
       centerColor: "#A03050",
     },
     {
-      name: "Lotus",
-      compliment: "You rise beautifully no matter what surrounds you.",
+      name: "Lily",
+      compliment: "There is an elegance to you that feels entirely effortless.",
       color: "#F0C0D0",
       petalColor: "#C87090",
       centerColor: "#F8E0A0",

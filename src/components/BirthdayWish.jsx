@@ -74,7 +74,7 @@ export default function BirthdayWish({ content }) {
         transition={{ duration: 1, ease: "easeOut" }}
         className="max-w-lg"
       >
-        <p className="text-xs tracking-[0.3em] uppercase text-rose-400 mb-8">with love</p>
+        <p className="text-xs tracking-[0.3em] uppercase text-rose-400 mb-8">with best wishes</p>
 
         <div className="relative mb-12">
           <div className="absolute -inset-6 blur-2xl bg-rose-100/50 rounded-full" />
@@ -109,7 +109,7 @@ export default function BirthdayWish({ content }) {
       </motion.div>
 
       <p className="absolute bottom-24 text-rose-300/70 text-xs tracking-widest">
-        made with care and a looott of emotions, just for you
+        made with care and a looott of emotions, just for you Kashish
       </p>
     </section>
   );

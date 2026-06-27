@@ -37,11 +37,11 @@ export default function App() {
           <div className="w-24 h-px bg-rose-200" />
         </div>
 
-        <IconsSection icons={content.icons} />
+        {/* <IconsSection icons={content.icons} />
 
         <div className="w-full flex justify-center py-2">
           <div className="w-24 h-px bg-rose-200" />
-        </div>
+        </div> */}
 
         <BirthdayWish content={content.wish} />
       </div>
