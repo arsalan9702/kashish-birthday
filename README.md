@@ -57,4 +57,4 @@ If you're looking for programmer-style inside jokes:
 
 Or a birthday-card style line:
 
-> May your stitches stay straight, your fabrics stay wrinkle-free, your clients say "perfect" on the first fitting, and your creativity never run out.
+> 

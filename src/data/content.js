@@ -2,7 +2,7 @@ export const content = {
   hero: {
     subtitle: "Happy Birthday",
     name: "Kashish",
-    tagline: "Some people make the world more beautiful just by being in it.",
+    tagline: "Wishing you a year ahead as magical as you.",
   },
 
   nameSection: {
@@ -128,7 +128,7 @@ export const content = {
 
   wish: {
     message:
-      "There are people you meet and forget, and then there are people who quietly change the way you see things. You are the second kind. I hope this birthday gives you even a fraction of the joy you give everyone around you — because you deserve that, and so much more. Happy Birthday, Kashish.",
+      "Happy 23rd Birthday Kashish!! 23 eh? Do the joints hurt already, you're getting old haha. I wish this year brings a lot of happiness to you! May your stitches stay straight, your fabrics stay wrinkle-free, your clients say 'perfect' on the first fitting, and your creativity never run out. Continue being passionate in the same way, it has inspired me too to be the same. May Allah grant you lots and lots of Peace, Prosperity, and lotss of Satisfaction in everything you do. I hope this birthday gives you lots of joy, and a very successful year ahead! Best wishes again to you and your family. Happy Birthday, Kashish.",
     signoff: "— Arsalan",
   },
 };
